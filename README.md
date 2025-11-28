@@ -7,6 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Mi 1º proyecto personal LAVAREL:
+
+Siguiendo el curso de Gogodev, aqui el link del curso completo: https://www.youtube.com/playlist?list=PLDllzmccetSM50U0Y9fTOWHvSzAZ_W6Il ,
+he decidido ir desarrollando diferentes aplicaciones web para consolidar mi aprendizaje, y poder aspirar a nuevos puestos de trabajo.
+Esta es la primera aplicación.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
