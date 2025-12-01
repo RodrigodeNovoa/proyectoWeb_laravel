@@ -19,9 +19,11 @@ use Illuminate\Support\Facades\Route; //importa la clase route
 */
 
 
-Route::view('/', 'welcome')->name('bienvenida_predeterminada');
+Route::view('/', 'index')->name('index');
 //->name('nombre...xx'), le asociamos un nombre a la ruta.
 
+Route::view('/about', 'about')->name('about');
+Route::view('/services', 'services')->name('services');
+Route::view('/contact', 'contact')->name('contact');
 
-Route::view('/', 'landing.index')->name('index');
-Route::view('/', 'landing.about')->name('about');
+
