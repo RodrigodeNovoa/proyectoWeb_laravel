@@ -6,11 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>
         @yield('title')
+    </title>
         <!--el campo yield() nos servira para indicarle a .blade que no es codigo Html,
         sino una directiva que nosotros le estamos indicando. -->
-    </title>
 </head>
 <body>
+    @include('layouts._partials.menu')
     @yield('body')
 </body>
 </html>
+
