@@ -1,4 +1,5 @@
-<div style="border: 1px solid black; border-radius: 5px; padding: 10px;">
+<div class="bord">
     <h3>{{ $title }}</h3>
+    <img src="{{ asset('assets/img/elden.jpg') }}" alt="example" width="1024">
     <p>{{ $content }}</p>
 </div>
